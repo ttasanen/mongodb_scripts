@@ -1,1 +1,1 @@
-# mongodb_scripts
+Some scripts to use with MongoDB
